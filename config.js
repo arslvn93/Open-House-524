@@ -20,9 +20,9 @@ const config = {
     }
   },
   "brokerage": {
-    "name": "",
-    "logoUrl": "",
-    "address": ""
+    "name": "Real Broker L",
+    "logoUrl": "https://iili.io/KdVOP8F.webp",
+    "address": "130 King St W UNIT 1800B, Toronto, ON M5X 1E3, Canada"
   },
   "openHouse": {
     "eventDate": "2025-10-18",
@@ -67,7 +67,7 @@ const config = {
   "meta": {
     "pageTitlePrefix": "🏡 Daniel Losier Open House",
     "navBrandLogoText": "OPEN HOUSE",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://erbaandco.com/privacy-policy/"
   },
   "settings": {
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
@@ -157,8 +157,8 @@ const config = {
   "deploymentInfo": {
     "repoName": "Open-House-524",
     "repoUrl": "https://github.com/arslvn93/Open-House-524",
-    "tag": "Open House 122 Cedarcrest Blvd",
-    "netlifyUrl": "",
+    "tag": "Leads | 122 Cedarcrest Blvd Open House",
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/xg4Egm27GPiTwOuGMgad/webhook-trigger/qiDJi5ClJ1cWyphbVY4X",
     "siteId": "909f0d03-aca3-4209-96e0-95f29d9726ea"
   }
 };
