@@ -11,7 +11,7 @@ const config = {
     "title": "REALTOR®",
     "phone": "(416) 418-6470",
     "email": "Daniel@ErbaAndco.com",
-    "bio": "I grew up surrounded by real estate — my father spent over 50 years as a commercial broker - so helping people find their place has always come naturally. After years in the restaurant industry, I followed my passion into real estate in 2011, and I’ve loved every minute since.\n\nAt Erba & Co, my wife and I built a team focused on making real estate honest, personal, and feel-good again. For me, it’s never just about homes and prices - it’s about lifestyle, family, and helping people move forward with confidence.",
+    "bio": "I grew up surrounded by real estate - my father spent over 50 years as a commercial broker - so helping people find their place has always come naturally. After years in the restaurant industry, I followed my passion into real estate in 2011, and I’ve loved every minute since.\n\nAt Erba & Co, my wife and I built a team focused on making real estate honest, personal, and feel-good again. For me, it’s never just about homes and prices - it’s about lifestyle, family, and helping people move forward with confidence.",
     "photoUrl": "https://erbaandco.com/wp-content/uploads/2023/04/Dan-Losier-02-1320x903.jpg",
     "social": {
       "facebook": "https://www.facebook.com/erbaandco/",
